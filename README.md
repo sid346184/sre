@@ -65,7 +65,7 @@ done
     - ArgoCD configuration (`Application` manifest, etc.)
     - Ingress 
     - Any scripts/configs used to bootstrap the KIND + ArgoCD setup
-    - Add reviewers as collaborators (`anjuls`, `riteshsonawane1372`, `vishalanarase`)
+    - Add reviewers as collaborators (`anjuls`)
   - Documentation
     - Deployment steps
     - Any issues found and how they were diagnosed

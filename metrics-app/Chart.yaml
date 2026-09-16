@@ -1,0 +1,6 @@
+apiVersion: v2
+name: metrics-app
+description: A Helm chart for metrics-app SRE assignment
+type: application
+version: 0.1.0
+appVersion: "1.4"
